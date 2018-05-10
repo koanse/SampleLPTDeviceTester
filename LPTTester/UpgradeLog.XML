@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LPTTester">
+</Property><Property Name="Файл решения" Value="C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\LPTTester.sln">
+</Property><Property Name="Файл параметров пользователя" Value="C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\LPTTester.suo">
+</Property><Property Name="Date" Value="3 декабря 2010 г.">
+</Property><Property Name="Time" Value="14:05">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LPTTester.sln" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\Backup\LPTTester.sln">
+</Event><Event ErrorLevel="0" Project="" Source="LPTTester.suo" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\Backup\LPTTester.suo">
+</Event><Event ErrorLevel="0" Project="LPTTester" Source="LPTTester\LPTTester.csproj" Description="Успешно создана резервная копия файла проекта: C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\Backup\LPTTester\LPTTester.csproj">
+</Event><Event ErrorLevel="0" Project="LPTTester" Source="LPTTester\Program.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\Backup\LPTTester\Program.cs">
+</Event><Event ErrorLevel="0" Project="LPTTester" Source="LPTTester\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\Backup\LPTTester\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LPTTester" Source="LPTTester\app.config" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\Backup\LPTTester\app.config">
+</Event><Event ErrorLevel="1" Project="LPTTester" Source="LPTTester\LPTTester.csproj" Description="Этот проект рассчитан на .NET Framework версии 2.0 или 3.0. Если проект будет использовать сборки, требующие более новую версию .NET Framework, возникнет ошибка построения. Чтобы изменить версию .NET Framework, выберите пункт &quot;Свойства&quot; в меню проекта, затем выберите новую версию в раскрывающемся списке &quot;.NET Framework&quot;. (В Visual Basic этот список находится на вкладке &quot;Компиляция&quot;, открываемой при нажатии кнопки &quot;Дополнительные параметры компилятора&quot;.)">
+</Event><Event ErrorLevel="0" Project="LPTTester" Source="LPTTester\LPTTester.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="LPTTester" Source="LPTTester\LPTTester.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Output" Source="Output\Output.csproj" Description="Успешно создана резервная копия файла проекта: C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\Backup\Output\Output.csproj">
+</Event><Event ErrorLevel="0" Project="Output" Source="Output\Form1.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\Backup\Output\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Output" Source="Output\Form1.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\Backup\Output\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Output" Source="Output\Morze.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\Backup\Output\Morze.cs">
+</Event><Event ErrorLevel="0" Project="Output" Source="Output\Program.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\Backup\Output\Program.cs">
+</Event><Event ErrorLevel="0" Project="Output" Source="Output\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\Backup\Output\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Output" Source="Output\Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\Backup\Output\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Output" Source="Output\Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\Backup\Output\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Output" Source="Output\app.config" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\Backup\Output\app.config">
+</Event><Event ErrorLevel="0" Project="Output" Source="Output\Properties\Settings.settings" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\Backup\Output\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Output" Source="Output\Form1.resx" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\Backup\Output\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Output" Source="Output\Properties\Resources.resx" Description="Успешно создана резервная копия файла C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\Backup\Output\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="Output" Source="Output\Output.csproj" Description="Этот проект рассчитан на .NET Framework версии 2.0 или 3.0. Если проект будет использовать сборки, требующие более новую версию .NET Framework, возникнет ошибка построения. Чтобы изменить версию .NET Framework, выберите пункт &quot;Свойства&quot; в меню проекта, затем выберите новую версию в раскрывающемся списке &quot;.NET Framework&quot;. (В Visual Basic этот список находится на вкладке &quot;Компиляция&quot;, открываемой при нажатии кнопки &quot;Дополнительные параметры компилятора&quot;.)">
+</Event><Event ErrorLevel="0" Project="Output" Source="Output\Output.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="Output" Source="Output\Output.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LPTTester.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="LPTTester.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LPTTester" Source="LPTTester\app.config" Description="Файл успешно преобразован. Все теги &lt;supportedRuntime&gt; и &lt;requiredRuntime&gt; были удалены, чтобы позволить проекту строиться и запускаться в Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="LPTTester" Source="LPTTester\app.config" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Output" Source="Output\app.config" Description="Файл успешно преобразован. Все теги &lt;supportedRuntime&gt; и &lt;requiredRuntime&gt; были удалены, чтобы позволить проекту строиться и запускаться в Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="Output" Source="Output\app.config" Description="Converted">
+</Event></UpgradeLog>

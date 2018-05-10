@@ -1,0 +1,24 @@
+C:\Documents and Settings\Nikita.Dorin\Мои документы\Visual Studio 2005\Projects\LPTTester\LPTTester\bin\Debug\LPTTester.exe
+C:\Documents and Settings\Nikita.Dorin\Мои документы\Visual Studio 2005\Projects\LPTTester\LPTTester\bin\Debug\LPTTester.pdb
+C:\Documents and Settings\Nikita.Dorin\Мои документы\Visual Studio 2005\Projects\LPTTester\LPTTester\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Nikita.Dorin\Мои документы\Visual Studio 2005\Projects\LPTTester\LPTTester\obj\Debug\LPTTester.exe
+C:\Documents and Settings\Nikita.Dorin\Мои документы\Visual Studio 2005\Projects\LPTTester\LPTTester\obj\Debug\LPTTester.pdb
+C:\Documents and Settings\Nikita.Dorin\Мои документы\Visual Studio 2005\Projects\LPTTester\LPTTester\bin\Debug\LPTTester.exe.config
+D:\Prolog\Алексеев\LPTTester\LPTTester\LPTTester\bin\Debug\LPTTester.exe.config
+D:\Prolog\Алексеев\LPTTester\LPTTester\LPTTester\obj\Debug\LPTTester.exe
+D:\Prolog\Алексеев\LPTTester\LPTTester\LPTTester\obj\Debug\LPTTester.pdb
+D:\Prolog\Алексеев\LPTTester\LPTTester\LPTTester\bin\Debug\LPTTester.exe
+D:\Prolog\Алексеев\LPTTester\LPTTester\LPTTester\bin\Debug\LPTTester.pdb
+D:\Prolog\Алексеев\LPTTester\LPTTester\LPTTester\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Nikita.Dorin\Мои документы\LPTTester\LPTTester\LPTTester\bin\Debug\LPTTester.exe.config
+C:\Documents and Settings\Nikita.Dorin\Мои документы\LPTTester\LPTTester\LPTTester\bin\Debug\LPTTester.exe
+C:\Documents and Settings\Nikita.Dorin\Мои документы\LPTTester\LPTTester\LPTTester\bin\Debug\LPTTester.pdb
+C:\Documents and Settings\Nikita.Dorin\Мои документы\LPTTester\LPTTester\LPTTester\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Nikita.Dorin\Мои документы\LPTTester\LPTTester\LPTTester\obj\Debug\LPTTester.exe
+C:\Documents and Settings\Nikita.Dorin\Мои документы\LPTTester\LPTTester\LPTTester\obj\Debug\LPTTester.pdb
+C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\LPTTester\bin\Debug\LPTTester.exe.config
+C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\LPTTester\bin\Debug\LPTTester.exe
+C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\LPTTester\bin\Debug\LPTTester.pdb
+C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\LPTTester\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\LPTTester\obj\Debug\LPTTester.exe
+C:\Users\Anton\Documents\Visual Studio 2010\Projects\LPTTester\LPTTester\LPTTester\obj\Debug\LPTTester.pdb
